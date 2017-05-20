@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The Manjaro Development Team
-permalink: /team/
+title: The Manjaro rakan Development Team
+permalink: /teamrakan/
 published: true
 ---
 
-## Core Team
+## Core Teamrakan
 
 * **Philip Müller** Project Leader, Project Management and Coordination, Mirrors Manager, Packager, Developer, Web Developer
 * **Roland Singer** Founder, Designer, Developer, Web Developer, Packager
