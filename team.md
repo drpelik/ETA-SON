@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Manjaro rakan Development Team
-permalink: /team/
+permalink: /teamrakan/
 published: true
 ---
 
